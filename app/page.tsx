@@ -18,7 +18,7 @@ export default function Home() {
       {/* Home Banner Style V1 */}
       <section
         className="home-banner-style1 p0"
-        style={{ backgroundImage: "url(/images/banners/home-banner-600.jpg)" }}
+        style={{ backgroundImage: "url(/images/banners/navi-mumbai-bg-600.jpeg)" }}
       >
         <div className="home-style1">
           <div className="container">
@@ -97,7 +97,7 @@ export default function Home() {
             </div>
             <div className="col-lg-3">
               <div className="text-start text-lg-end mb-3">
-                <Link className="ud-btn2" href="/list-v1">
+                <Link className="ud-btn2" href="/listings">
                   See All Properties
                   <i className="fal fa-arrow-right-long" />
                 </Link>
@@ -135,7 +135,7 @@ export default function Home() {
             </div>
             <div className="col-lg-3">
               <div className="text-start text-lg-end mb-3">
-                <Link className="ud-btn2" href="/list-v1">
+                <Link className="ud-btn2" href="/listings">
                   See All Properties
                   <i className="fal fa-arrow-right-long" />
                 </Link>

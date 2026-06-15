@@ -55,7 +55,7 @@ const PropertyCardTop = ({ listing }: Props) => {
           </div>
           <div className="list-content">
             <h6 className="list-title property-title">
-              <Link href={`/single-v1/${listing.id}`}>{listing.title}</Link>
+              <Link href={`/property/${listing.slug}`}>{listing.title}</Link>
             </h6>
             <p className="list-text color-primary">
               <span className="location-icon">📍</span>

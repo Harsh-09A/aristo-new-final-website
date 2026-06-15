@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Property } from "@/types/property";
 import { formatIndianPrice } from "@/utils/format-price";
+import Link from "next/link";
 
 type Props = {
   listing: Property;
@@ -29,7 +30,9 @@ const PropertyCardFeatured = ({ listing }: Props) => {
             {/* <!-- Title + Price --> */}
             <div>
               <div className="card-header-row">
+                <Link href={`/property/${listing.slug}`}>
                 <h2 className="property-title">{listing.title}</h2>
+                </Link>
                 <span className="price-badge">
                   {formatIndianPrice(listing.price)}
                 </span>
