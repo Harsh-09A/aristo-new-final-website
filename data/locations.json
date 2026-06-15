@@ -7,7 +7,7 @@
     },
     {
         "id": 2,
-        "name": "Kharghar",
+        "name": "Panvel",
         "image": "/images/locations/2.jpg",
         "propertyCount": 12
     },
@@ -20,7 +20,7 @@
     },
     {
         "id": 4,
-        "name": "Nerul",
+        "name": "Kharghar",
         "image": "/images/locations/4.jpg",
         "propertyCount": 12
         
@@ -46,7 +46,7 @@
     },
     {
         "id": 8,
-        "name": "Panvel",
+        "name": "Nerul",
         "image": "/images/locations/4.jpg",
         "propertyCount": 12
     }

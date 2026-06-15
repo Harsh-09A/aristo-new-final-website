@@ -45,7 +45,7 @@ const PropertiesByLocation = () => {
           },
         }}
       >
-        {locations.slice(0, 6).map((location) => (
+        {locations.map((location) => (
           <SwiperSlide key={location.id}>
             <div className="item">
               <div className="feature-style1">
@@ -82,7 +82,7 @@ const PropertiesByLocation = () => {
                     <p className="text">{location.propertyCount} Properties</p>
                   </div>
                   <div className="bottom-area">
-                    <Link className="ud-btn2" href="/list-v1">
+                    <Link className="ud-btn2" href={`/listings?location=${location.name}`}>
                       See All Projects
                       <i className="fal fa-arrow-right-long" />
                     </Link>
