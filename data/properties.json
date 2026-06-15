@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "title": "Birla Taranya",
+        "slug": "birla-taranya",
+        "category": "residential",
+        "type": "apartment",
+        "status": "RTMI",
+        "images": [
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp"
+        ],
+        "location": "Airoli",
+        "address": "Airoli, Navi Mumbai, Maharashtra 400605",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30173.72857443894!2d73.030883!3d19.032229000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b62a491393%3A0x8f24500dbd3d0d95!2sSector%2024%2C%20CBD%20Belapur%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1778665339483!5m2!1sen!2sus",
+        "configurations": [
+            {
+                "id": 1,
+                "value": 1,
+                "price": 8000000,
+                "area": {
+                    "value": 650,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/aramus-pride-desktop-banner-1.webp"
+                ]
+            },
+            {
+                "id": 2,
+                "value": 2,
+                "price": 12000000,
+                "area": {
+                    "value": 950,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/aramus-pride-desktop-banner-1.webp",
+                    "/uploads/listing-single-2.webp",
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 3,
+                "value": 3,
+                "price": 18000000,
+                "area": {
+                    "value": 1200,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            }
+        ],
+        "configurationUnit": "BHK",
+        "price": 12000000,
+        "possession": "Dec 2030",
+        "area": "1200",
+        "rera": "PR000000054",
+        "developerInfo": {
+            "name": "Birla Group",
+            "logo": "/images/developers/1.webp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        "tags": [
+            "featured",
+            "top"
+        ],
+        "amenities": [
+            "Amphitheatre",
+            "Lawn",
+            "Swimming Pool",
+            "Basketball court",
+            "24/7 Security",
+            "Senior Citizen Area",
+            "Garden",
+            "Clubhouse",
+            "High Speed Lift",
+            "Gym",
+            "Pipe Gas",
+            "Yoga Center"
+        ],
+        "highlights": [
+            "G+14 Floors with 13 wings",
+            "Located near Palm Beach road",
+            "Luxurious 2 & 3 BHK Homes"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "parking": "Available",
+        "year_built": "2022",
+        "location_features": [
+            "Sargasan Circle/SG Highway - 2 Min",
+            "Gandhinagar Bus Stand - 3 min",
+            "Gandhinagar Railway Station - 4 Min",
+            "Mahatma Mandir - 4 Min",
+            "Karnavati University - 6 Min",
+            "D Mart - 6 Min",
+            "Aashka Multispecialist Hospital - 6 Min",
+            "Tri Mandir - 7 Min"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Godrej Kharghar",
+        "slug": "godrej-kharghar",
+        "category": "residential",
+        "type": "bungalow",
+        "status": "rtmi",
+        "images": [
+            "/uploads/godrej-kharghar-desktop-banner-1.webp",
+            "/uploads/godrej-kharghar-desktop-banner-1.webp",
+            "/uploads/birla-taranya-desktop-banner-1.webp"
+        ],
+        "location": "Panvel",
+        "address": "Panvel, Navi Mumbai, Maharashtra 400605",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30173.72857443894!2d73.030883!3d19.032229000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b62a491393%3A0x8f24500dbd3d0d95!2sSector%2024%2C%20CBD%20Belapur%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1778665339483!5m2!1sen!2sus",
+        "configurations": [
+            {
+                "id": 1,
+                "value": 3,
+                "price": 8000000,
+                "area": {
+                    "value": 650,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 2,
+                "value": 4,
+                "price": 12000000,
+                "area": {
+                    "value": 950,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            }
+
+        ],
+        "configurationUnit": "BHK",
+        "price": 22000000,
+        "possession": "Dec 2030",
+        "area": "1200",
+        "rera": "PR000000054",
+        "developerInfo": {
+            "name": "Godrej Group",
+            "logo": "/images/developers/1.webp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        "tags": [
+            "featured",
+            "top"
+        ],
+        "amenities": [
+            "Amphitheatre",
+            "Lawn",
+            "Swimming Pool",
+            "Basketball court",
+            "24/7 Security",
+            "Senior Citizen Area",
+            "Garden",
+            "Clubhouse",
+            "High Speed Lift",
+            "Gym",
+            "Pipe Gas",
+            "Yoga Center"
+        ],
+        "highlights": [
+            "G+14 Floors with 13 wings",
+            "Located near Palm Beach road",
+            "Luxurious 2 & 3 BHK Homes"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "parking": "Available",
+        "year_built": "2022",
+        "location_features": [
+            "Sargasan Circle/SG Highway - 2 Min",
+            "Gandhinagar Bus Stand - 3 min",
+            "Gandhinagar Railway Station - 4 Min",
+            "Mahatma Mandir - 4 Min",
+            "Karnavati University - 6 Min",
+            "D Mart - 6 Min",
+            "Aashka Multispecialist Hospital - 6 Min",
+            "Tri Mandir - 7 Min"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Rainbow Life",
+        "slug": "rainbow-life",
+        "category": "residential",
+        "type": "apartment",
+        "status": "RTMI",
+        "images": [
+            "/uploads/rainbow-life-desktop-banner-1.webp",
+            "/uploads/rainbow-life-desktop-banner-1.webp"
+        ],
+        "location": "Airoli",
+        "address": "Airoli, Navi Mumbai, Maharashtra 400605",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30173.72857443894!2d73.030883!3d19.032229000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b62a491393%3A0x8f24500dbd3d0d95!2sSector%2024%2C%20CBD%20Belapur%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1778665339483!5m2!1sen!2sus",
+        "configurations": [
+            {
+                "id": 1,
+                "value": 1,
+                "price": 8000000,
+                "area": {
+                    "value": 650,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 2,
+                "value": 2,
+                "price": 12000000,
+                "area": {
+                    "value": 950,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 3,
+                "value": 3,
+                "price": 18000000,
+                "area": {
+                    "value": 1200,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            }
+        ],
+        "configurationUnit": "BHK",
+        "price": 9000000,
+        "possession": "Dec 2030",
+        "area": "1200",
+        "rera": "PR000000054",
+        "developerInfo": {
+            "name": "Rainbow Group",
+            "logo": "/images/developers/1.webp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        "tags": [
+            "featured",
+            "top"
+        ],
+        "amenities": [
+            "Amphitheatre",
+            "Lawn",
+            "Swimming Pool",
+            "Basketball court",
+            "24/7 Security",
+            "Senior Citizen Area",
+            "Garden",
+            "Clubhouse",
+            "High Speed Lift",
+            "Gym",
+            "Pipe Gas",
+            "Yoga Center"
+        ],
+        "highlights": [
+            "G+14 Floors with 13 wings",
+            "Located near Palm Beach road",
+            "Luxurious 2 & 3 BHK Homes"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "parking": "Available",
+        "year_built": "2022",
+        "location_features": [
+            "Sargasan Circle/SG Highway - 2 Min",
+            "Gandhinagar Bus Stand - 3 min",
+            "Gandhinagar Railway Station - 4 Min",
+            "Mahatma Mandir - 4 Min",
+            "Karnavati University - 6 Min",
+            "D Mart - 6 Min",
+            "Aashka Multispecialist Hospital - 6 Min",
+            "Tri Mandir - 7 Min"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Aramus Pride",
+        "slug": "aramus-pride",
+        "category": "commercial",
+        "type": "office",
+        "status": "RTMI",
+        "images": [
+            "/uploads/aramus-pride-desktop-banner-1.webp",
+            "/uploads/aramus-pride-desktop-banner-1.webp"
+        ],
+        "location": "Airoli",
+        "address": "Airoli, Navi Mumbai, Maharashtra 400605",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30173.72857443894!2d73.030883!3d19.032229000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b62a491393%3A0x8f24500dbd3d0d95!2sSector%2024%2C%20CBD%20Belapur%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1778665339483!5m2!1sen!2sus",
+        "configurations": [
+            {
+                "id": 1,
+                "value": 650,
+                "price": 8000000,
+                "area": {
+                    "value": 650,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 2,
+                "value": 950,
+                "price": 12000000,
+                "area": {
+                    "value": 950,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 3,
+                "value": 1200,
+                "price": 18000000,
+                "area": {
+                    "value": 1200,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            }
+        ],
+        "configurationUnit": "SqFt",
+        "price": 32000000,
+        "possession": "Dec 2030",
+        "area": "1200",
+        "rera": "PR000000054",
+        "developerInfo": {
+            "name": "Birla Group",
+            "logo": "/images/developers/1.webp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        "tags": [
+            "featured",
+            "top"
+        ],
+        "amenities": [
+            "Amphitheatre",
+            "Lawn",
+            "Swimming Pool",
+            "Basketball court",
+            "24/7 Security",
+            "Senior Citizen Area",
+            "Garden",
+            "Clubhouse",
+            "High Speed Lift",
+            "Gym",
+            "Pipe Gas",
+            "Yoga Center"
+        ],
+        "highlights": [
+            "G+14 Floors with 13 wings",
+            "Located near Palm Beach road",
+            "Luxurious 2 & 3 BHK Homes"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "parking": "Available",
+        "year_built": "2022",
+        "location_features": [
+            "Sargasan Circle/SG Highway - 2 Min",
+            "Gandhinagar Bus Stand - 3 min",
+            "Gandhinagar Railway Station - 4 Min",
+            "Mahatma Mandir - 4 Min",
+            "Karnavati University - 6 Min",
+            "D Mart - 6 Min",
+            "Aashka Multispecialist Hospital - 6 Min",
+            "Tri Mandir - 7 Min"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Vision Palm Amore",
+        "slug": "vision-palm-amore",
+        "category": "residential",
+        "type": "apartment",
+        "status": "RTMI",
+        "images": [
+            "/uploads/vision-palm-amore-desktop-banner-1.webp",
+            "/uploads/vision-palm-amore-desktop-banner-1.webp"
+        ],
+        "location": "Airoli",
+        "address": "Airoli, Navi Mumbai, Maharashtra 400605",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30173.72857443894!2d73.030883!3d19.032229000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3b62a491393%3A0x8f24500dbd3d0d95!2sSector%2024%2C%20CBD%20Belapur%2C%20Navi%20Mumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1778665339483!5m2!1sen!2sus",
+        "configurations": [
+            {
+                "id": 1,
+                "value": 1,
+                "price": 8000000,
+                "area": {
+                    "value": 650,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 2,
+                "value": 2,
+                "price": 12000000,
+                "area": {
+                    "value": 950,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            },
+            {
+                "id": 3,
+                "value": 3,
+                "price": 18000000,
+                "area": {
+                    "value": 1200,
+                    "label": "Super Built-Up"
+                },
+                "images": [
+                    "/uploads/listing-single-1.webp",
+                    "/uploads/listing-single-2.webp"
+                ]
+            }
+        ],
+        "configurationUnit": "BHK",
+        "price": 102000000,
+        "possession": "Dec 2030",
+        "area": "1200",
+        "rera": "PR000000054",
+        "developerInfo": {
+            "name": "Birla Group",
+            "logo": "/images/developers/1.webp",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        "tags": [
+            "latest",
+            "featured"
+        ],
+        "amenities": [
+            "Amphitheatre",
+            "Lawn",
+            "Swimming Pool",
+            "Basketball court",
+            "24/7 Security",
+            "Senior Citizen Area",
+            "Garden",
+            "Clubhouse",
+            "High Speed Lift",
+            "Gym",
+            "Pipe Gas",
+            "Yoga Center"
+        ],
+        "highlights": [
+            "G+14 Floors with 13 wings",
+            "Located near Palm Beach road",
+            "Luxurious 2 & 3 BHK Homes"
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "parking": "Available",
+        "year_built": "2022",
+        "location_features": [
+            "Sargasan Circle/SG Highway - 2 Min",
+            "Gandhinagar Bus Stand - 3 min",
+            "Gandhinagar Railway Station - 4 Min",
+            "Mahatma Mandir - 4 Min",
+            "Karnavati University - 6 Min",
+            "D Mart - 6 Min",
+            "Aashka Multispecialist Hospital - 6 Min",
+            "Tri Mandir - 7 Min"
+        ]
+    }
+]

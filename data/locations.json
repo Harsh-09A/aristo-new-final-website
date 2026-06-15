@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Airoli",
+        "image": "/images/locations/1.jpg",
+        "propertyCount": 12
+    },
+    {
+        "id": 2,
+        "name": "Kharghar",
+        "image": "/images/locations/2.jpg",
+        "propertyCount": 12
+    },
+    {
+        "id": 3,
+        "name": "Ulwe",
+        "image": "/images/locations/3.jpg",
+        "propertyCount": 12
+        
+    },
+    {
+        "id": 4,
+        "name": "Nerul",
+        "image": "/images/locations/4.jpg",
+        "propertyCount": 12
+        
+    },
+    {
+        "id": 5,
+        "name": "Belapur",
+        "image": "/images/locations/1.jpg",
+        "propertyCount": 12
+    },
+    {
+        "id": 6,
+        "name": "Vashi",
+        "image": "/images/locations/2.jpg",
+        "propertyCount": 12
+        
+    },
+    {
+        "id": 7,
+        "name": "Sanpada",
+        "image": "/images/locations/3.jpg",
+        "propertyCount": 12
+    },
+    {
+        "id": 8,
+        "name": "Panvel",
+        "image": "/images/locations/4.jpg",
+        "propertyCount": 12
+    }
+]

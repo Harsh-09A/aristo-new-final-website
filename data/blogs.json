@@ -1,0 +1,34 @@
+ [
+  {
+    "id": 1,
+    "image": "/images/blog/blog_1.webp",
+    "date": {
+      "month": "July",
+      "day": "28"
+    },
+    "tag": "Living Room",
+    "title": "Private Contemporary Home Balancing Openness"
+  },
+  {
+    "id": 2,
+    "image": "/images/blog/blog_1.webp",
+
+    "date": {
+      "month": "July",
+      "day": "28"
+    },
+    "tag": "Living Room",
+    "title": "Contemporary Home Private Balancing Openness"
+  },
+  {
+    "id": 3,
+    "image": "/images/blog/blog_1.webp",
+    "date": {
+      "month": "July",
+      "day": "28"
+    },
+    "tag": "Living Room",
+    "title": "Balancing Private Contemporary Home  Openness"
+  }
+]
+

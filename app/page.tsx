@@ -1,0 +1,273 @@
+import Developers from "@/components/common/developers/Developers";
+import PricesCard from "@/components/common/prices/PricesCard";
+import Hero from "@/components/home/hero/Hero";
+import FeaturedListings from "@/components/property/listing/FeaturedListings";
+import SectionHeading from "@/components/sections/SectionHeading";
+import ReelsSection4 from "@/components/reels-temp/ReelsSection4";
+import Link from "next/link";
+import TopListings from "@/components/property/listing/TopListings";
+import PropertiesByLocation from "@/components/location/PropertiesByLocation";
+import WhyChooseUs from "@/components/sections/home/WhyChooseUs";
+import Testimonial from "@/components/sections/extra/Testimonial";
+import Blogs from "@/components/blogs/Blogs";
+import CallToActions from "@/components/common/cta/CallToActions";
+
+export default function Home() {
+  return (
+    <>
+      {/* Home Banner Style V1 */}
+      <section
+        className="home-banner-style1 p0"
+        style={{ backgroundImage: "url(/images/banners/home-banner-600.jpg)" }}
+      >
+        <div className="home-style1">
+          <div className="container">
+            <div className="row">
+              <div className="col-xl-11 mx-auto">
+                <Hero />
+              </div>
+            </div>
+          </div>
+          {/* End .container */}
+        </div>
+      </section>
+      {/* End Home Banner Style V1 */}
+
+      {/* Our Partners */}
+      <section className="our-partners pb-0">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12 mb-4" data-aos="fade-up">
+              <SectionHeading
+                heading={"Developers"}
+                title={"Our Top"}
+                highlight={"Developers"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+            <div className="col-lg-12 text-center">
+              <div
+                className="dots_none nav_none"
+                data-aos="fade-up"
+                data-aos-delay="300"
+              >
+                {
+                  /* <Partner /> */
+
+                  <Developers />
+                }
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* End Our Partners */}
+
+      {/* Explore By Prices */}
+      <section className="pb-0">
+        <div className="container">
+          <div className="row wow fadeInUp" data-wow-delay="00ms">
+            <div className="col-lg-12 mb-4" data-aos="fade-up">
+              <SectionHeading
+                heading={"Budgets"}
+                title={"Explore By"}
+                highlight={"Prices"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+          </div>
+          <div className="row" data-aos="fade-up" data-aos-delay="100">
+            <PricesCard />
+          </div>
+        </div>
+      </section>
+      {/* End Explore By Prices */}
+
+      {/* Featured Listings */}
+      <section className="bgc-f7 py">
+        <div className="container">
+          <div className="row align-items-center" data-aos="fade-up">
+            <div className="col-lg-9 mb-4 ">
+              <SectionHeading
+                heading={"Latest Properties"}
+                title={"Discover Our"}
+                highlight={"Latest Properties"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+            <div className="col-lg-3">
+              <div className="text-start text-lg-end mb-3">
+                <Link className="ud-btn2" href="/list-v1">
+                  See All Properties
+                  <i className="fal fa-arrow-right-long" />
+                </Link>
+              </div>
+            </div>
+          </div>
+          {/* End header */}
+
+          <div className="row">
+            <div className="col-lg-12" data-aos="fade-up" data-aos-delay="200">
+              <div className="">
+                <FeaturedListings />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* End Featured Listings */}
+
+      {/* Reels Section */}
+      <ReelsSection4 />
+      {/* End Reels Section */}
+
+      {/* Top Listings */}
+      <section className="bgc-f7">
+        <div className="container">
+          <div className="row align-items-center" data-aos="fade-up">
+            <div className="col-lg-9 mb-4 ">
+              <SectionHeading
+                heading={"Top Properties"}
+                title={"Discover Our"}
+                highlight={"Top Properties"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+            <div className="col-lg-3">
+              <div className="text-start text-lg-end mb-3">
+                <Link className="ud-btn2" href="/list-v1">
+                  See All Properties
+                  <i className="fal fa-arrow-right-long" />
+                </Link>
+              </div>
+            </div>
+          </div>
+          {/* End header */}
+
+          <div className="row">
+            <div className="col-lg-12" data-aos="fade-up" data-aos-delay="200">
+              <div className="feature-listing-slider">
+                <TopListings />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* End Featured Listings */}
+
+      {/* Explore Locations */}
+      <section className="pb40-md pb90">
+        <div className="container">
+          <div
+            className="row align-items-center"
+            data-aos="fade-up"
+            data-aos-delay="100"
+          >
+            <div className="col-lg-9 mb-4">
+              <SectionHeading
+                heading={"Top Locations"}
+                title={"Discover Our"}
+                highlight={"Top Locations"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+            {/* End col-lg-9 */}
+
+            <div className="col-lg-3">
+              <div className="text-start text-lg-end mb-3">
+                <a className="ud-btn2" href="#">
+                  See All Locations
+                  <i className="fal fa-arrow-right-long" />
+                </a>
+              </div>
+            </div>
+            {/* End col-lg-3 */}
+          </div>
+          {/* End .row */}
+
+          <div className="row">
+            <div className="col-lg-12" data-aos="fade-up" data-aos-delay="300">
+              <div className="property-city-slider position-relative">
+                <PropertiesByLocation />
+              </div>
+            </div>
+          </div>
+          {/* End .row */}
+        </div>
+      </section>
+      {/* End Explore Locations */}
+
+      {/* <!-- Why Choose Us --> */}
+      <section>
+        <div className="container">
+          <div
+            className="row align-items-md-center"
+            data-aos="fade-left"
+            data-aos-delay="100"
+          >
+            <WhyChooseUs />
+          </div>
+        </div>
+      </section>
+      {/*  <!-- End Why Choose Us --> */}
+
+      {/* Our Testimonials */}
+      <section className="pb100 pb50-md bgc-thm-light">
+        <div className="container">
+          <div className="row  justify-content-between align-items-center">
+            <div className="col-auto mb-4">
+              <SectionHeading
+                heading={"Reviews"}
+                title={"What Our Customers Say About"}
+                highlight={"Aristo"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+            {/* End header */}
+          </div>
+          {/* End .row */}
+
+          <div className="row">
+            <div className="col-lg-12">
+              <div
+                className="testimonial-slider"
+                data-aos="fade-up"
+                data-aos-delay="300"
+              >
+                <Testimonial />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* End Our Testimonials */}
+
+      {/* Explore Blog */}
+      <section className="pb90 pb20-md">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6 mb-4" data-aos="fade-up">
+              <SectionHeading
+                heading={"Blog"}
+                title={"Aristo"}
+                highlight={"Blog"}
+                subtitle={"Lorem ipsum dolor sit, amet consectetur"}
+              />
+            </div>
+          </div>
+          {/* End .row */}
+
+          <div className="row" data-aos="fade-up" data-aos-delay="300">
+            <Blogs />
+          </div>
+          {/* End .row */}
+        </div>
+      </section>
+      {/* Explore Blog */}
+
+      {/* Our CTA */}
+      <CallToActions />
+      {/* Our CTA */}
+    </>
+  );
+}
