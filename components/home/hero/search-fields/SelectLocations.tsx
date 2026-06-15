@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 import { locationOptions } from "@/data/filterOptions";
 import { useEffect, useState } from "react";

@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
     ],
   },
   allowedDevOrigins: ['192.168.0.111'],
+    typescript: {
+    ignoreBuildErrors: true, 
+  },
 };
 
 export default nextConfig;

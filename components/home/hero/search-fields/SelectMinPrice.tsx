@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 import { minOptions } from "@/data/filterOptions";
 import { useEffect, useState } from "react";

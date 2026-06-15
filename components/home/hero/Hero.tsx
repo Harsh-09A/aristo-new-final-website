@@ -1,6 +1,6 @@
-import AdvanceFilterModal from "@/components/common/advance-filter";
+// import AdvanceFilterModal from "@/components/common/advance-filter";
 import PropertySearchPanel from "./PropertySearchPanel";
-import { amenities, developers } from "@/data/filterOptions";
+// import { amenities, developers } from "@/data/filterOptions";
 
 const Hero = () => {
   return (

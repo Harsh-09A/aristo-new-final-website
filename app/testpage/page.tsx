@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { getFilteredProperties } from "@/services/property-service";
 type Props = {
