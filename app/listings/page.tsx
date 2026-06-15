@@ -99,7 +99,7 @@ const ListingsPage =  async({ searchParams }: Props) => {
         <div className="container">
           <div className="row gx-xl-5">
             <div className="col-lg-4 d-none d-lg-block">
-              <ListingSidebar filters={params} />
+              <ListingSidebar />
               {/* <h1>ListingSidebar</h1> */}
 
             </div>
@@ -124,7 +124,7 @@ const ListingsPage =  async({ searchParams }: Props) => {
                 ></button>
               </div>
               <div className="offcanvas-body p-0">
-              <ListingSidebar  filters={params} />
+              <ListingSidebar  />
                 {/* <h1>ListingSidebar</h1> */}
               </div>
             </div>
